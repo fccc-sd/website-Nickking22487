@@ -2,8 +2,8 @@ h1{
     color: #b33553 ;
     background-color: #612c83;
     text-align: center;
-    background-color: #1a1818
-    font-style italic;
+    
+    font-style: italic;
 }
 h3{
     color: #334285 ;
@@ -15,9 +15,9 @@ h1, h2, h3, h4{
 }
 
 body{
-    Color: gray;
-    font: size 1em;
     background-color: #1a1818
+    Color gray;
+    font: size 1em;
 }
 
 #enfisisIsOntheGame {
