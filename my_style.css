@@ -42,23 +42,23 @@ nav li
     list-style-type: none;
 }
 
-nav a: link;
+nav a:link
 {
-    color: #b33553 ;
+    color: #b33553;
     text-decoration: none;
 }
 
-nav a: :visited;
+nav a:visited
 {
     color: #334285 ;
 }
 
-nav a: :hover;
+nav a:hover
 {
     text-decoration: underline;
 }
 
-nav a: :active;
+nav a:active
 {
     color: yellow;
     text-decoration: none;
