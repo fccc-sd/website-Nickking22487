@@ -27,3 +27,39 @@ ul
 {
     list-style-type: square;
 }
+
+nav
+{
+    background-color: #612c83
+    line-height 200%;
+    display: block;
+}
+
+nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+nav a: link;
+{
+    color: #b33553 ;
+    text-decoration: none;
+}
+
+nav a: :visited;
+{
+    color: #334285 ;
+}
+
+nav a: :hover;
+{
+    text-decoration: underline;
+}
+
+nav a: :active;
+{
+    color: yellow;
+    text-decoration: none;
+}
