@@ -41,19 +41,19 @@ nav li
     display: inline;
     padding-right: 40px;
     list-style-type: none;
-    background-color: #b33553;
+    background-color: #334285;
     text-align: center;
 }
 
 nav a:link
 {
-    color: #334285;
+    color: #b33553;
     text-decoration: none;
 }
 
 nav a:visited
 {
-    color: #334285 ;
+    color: #b33553 ;
 }
 
 nav a:hover
