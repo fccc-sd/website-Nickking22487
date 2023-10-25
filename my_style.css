@@ -62,22 +62,26 @@ nav li
     padding-right: 40px;
     list-style-type: none;
     text-align: justify;
+    background-color: #612c83
 }
 
 nav a:link
 {
     color: #b33553;
     text-decoration: none;
+    background-color: #612c83
 }
 
 nav a:visited
 {
     color: #b33553 ;
+    background-color: #612c83
 }
 
 nav a:hover
 {
     text-decoration: underline;
+    background-color: #612c83
 }
 
 nav a:active
