@@ -48,8 +48,6 @@ header
 width: 920px;
 }
 
-#Nav
-{
 nav
 {
     background-color: #612c83
@@ -91,6 +89,10 @@ nav a:active
     color: #ffff00;
     text-decoration: none;
 }
+
+#Nav
+{
+margin-bottom: 4px;
 }
 
 aside
@@ -100,7 +102,7 @@ aside
 
 section
 {
-
+    margin-bottom: 4px;
 }
 
 footer
