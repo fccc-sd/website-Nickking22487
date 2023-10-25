@@ -4,8 +4,17 @@
     padding: 0;
 }
 
+body{
+    background-color: #1a1818;
+    color:grey;
+    font: size 1em;
+}
 
-
+#container
+{
+    width: 980px;
+    margin: 0 auto;
+    background-color: white;
 h1{
     color: #b33553 ;
     background-color: #612c83;
@@ -22,12 +31,6 @@ h1, h2, h3, h4{
     
 }
 
-body{
-    background-color: #1a1818;
-    color:grey;
-    font: size 1em;
-}
-
 #enfisisIsOntheGame {
     Color: lightgray;
 }
@@ -36,7 +39,15 @@ ul
 {
     list-style-type: square;
 }
+}
 
+header
+{
+width: 920px;
+}
+
+#Nav
+{
 nav
 {
     background-color: #612c83
@@ -73,4 +84,20 @@ nav a:active
 {
     color: #ffff00;
     text-decoration: none;
+}
+}
+
+aside
+{
+
+}
+
+section
+{
+
+}
+
+footer
+{
+
 }
